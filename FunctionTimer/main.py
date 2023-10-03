@@ -3,7 +3,8 @@ import time
 
 @runtime_calculator.measure_runtime
 def test():
-    time.sleep(1)
+    ...
+    pass
 
 @runtime_calculator.measure_runtime
 def test2():
